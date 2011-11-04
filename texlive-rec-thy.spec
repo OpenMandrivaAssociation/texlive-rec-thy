@@ -45,6 +45,7 @@ in recursion theory (otherwise known as computability theory).
 %doc %{_texmfdistdir}/doc/latex/rec-thy/README
 %doc %{_texmfdistdir}/doc/latex/rec-thy/rec-thy.pdf
 %doc %{_texmfdistdir}/doc/latex/rec-thy/rec-thy.tex
+%doc %{_tlpkgobjdir}/*.tlpobj
 
 #-----------------------------------------------------------------------
 %prep
@@ -55,3 +56,5 @@ in recursion theory (otherwise known as computability theory).
 %install
 mkdir -p %{buildroot}%{_texmfdistdir}
 cp -fpar tex doc %{buildroot}%{_texmfdistdir}
+mkdir -p %{buildroot}%{_tlpkgobjdir}
+cp -fpa tlpkg/tlpobj/*.tlpobj %{buildroot}%{_tlpkgobjdir}
