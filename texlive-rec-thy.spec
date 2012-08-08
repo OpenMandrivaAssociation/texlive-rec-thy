@@ -1,16 +1,16 @@
-# revision 20909
+# revision 27225
 # category Package
 # catalog-ctan /macros/latex/contrib/rec-thy
-# catalog-date 2011-01-02 11:52:10 +0100
-# catalog-license lppl
-# catalog-version 1.2
+# catalog-date 2012-06-21 10:44:34 +0200
+# catalog-license pd
+# catalog-version 1.3
 Name:		texlive-rec-thy
-Version:	1.2
-Release:	2
+Version:	1.3
+Release:	1
 Summary:	Commands to typeset recursion theory papers
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/rec-thy
-License:	LPPL
+License:	PD
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/rec-thy.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/rec-thy.doc.tar.xz
 BuildArch:	noarch
