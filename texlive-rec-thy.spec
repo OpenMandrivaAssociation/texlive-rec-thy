@@ -5,8 +5,8 @@
 # catalog-license pd
 # catalog-version 1.3
 Name:		texlive-rec-thy
-Version:	1.3
-Release:	9
+Version:	2.1
+Release:	1
 Summary:	Commands to typeset recursion theory papers
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/rec-thy
