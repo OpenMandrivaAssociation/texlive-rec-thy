@@ -5,7 +5,7 @@
 # catalog-license pd
 # catalog-version 1.3
 Name:		texlive-rec-thy
-Version:	2.1
+Version:	2.3
 Release:	1
 Summary:	Commands to typeset recursion theory papers
 Group:		Publishing
