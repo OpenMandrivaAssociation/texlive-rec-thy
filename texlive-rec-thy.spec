@@ -1,6 +1,6 @@
 Name:		texlive-rec-thy
 Version:	63982
-Release:	1
+Release:	2
 Summary:	Commands to typeset recursion theory papers
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/rec-thy
