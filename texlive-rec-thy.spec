@@ -3,7 +3,7 @@ Version:	70806
 Release:	1
 Summary:	Commands to typeset recursion theory papers
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/rec-thy
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/rec-thy
 License:	PD
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/rec-thy.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/rec-thy.doc.r%{version}.tar.xz
