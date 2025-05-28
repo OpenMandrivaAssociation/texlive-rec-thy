@@ -1,5 +1,5 @@
 Name:		texlive-rec-thy
-Version:	70806
+Version:	74983
 Release:	1
 Summary:	Commands to typeset recursion theory papers
 Group:		Publishing
